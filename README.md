@@ -22,4 +22,7 @@ The game can end in many different ways, and with each option you can either win
 - Timer (how much time goes by until the player reaches the mirror?)
 - Increase Speed with ongoing time
 - Outfit-Templates (in the beginning its shown which outfit is in trend and with that gives off the most points)
-- The music doesn't work as it should, which I was not able to fix 
+- The music doesn't work as it should, which I was not able to fix
+## Running the Game
+- Windows: Download the "DressUp"-folder from the brunch called "main"!
+- Linux: Download the "DressUp"-folder from the brunch called "fix-imports"!
