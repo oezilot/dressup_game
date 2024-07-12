@@ -1,4 +1,4 @@
-# Dress Up Game
+# Dress-Up Game
 ## Description
 This game was created as my first school project in computer science with the aim of creating a comfortable dress up game. 
 In order to do justice to my raw knowledge in this field, I adapted the original idea and created a mixture of dress up 
